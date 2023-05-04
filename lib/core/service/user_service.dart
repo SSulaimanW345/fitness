@@ -1,4 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:fitness/core/service/auth_service.dart';
 import 'package:fitness/core/extensions/exceptions.dart';
 import 'package:fitness/core/service/auth_service.dart';
 

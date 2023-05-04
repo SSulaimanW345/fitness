@@ -2,9 +2,9 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
 class NotificationService {
   static final NotificationService notificationService =
-      NotificationService._internal();
+  NotificationService._internal();
   static final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
-      FlutterLocalNotificationsPlugin();
+  FlutterLocalNotificationsPlugin();
 
   factory NotificationService() {
     return notificationService;
