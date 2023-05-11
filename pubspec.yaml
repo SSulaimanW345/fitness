@@ -18,6 +18,13 @@ dependencies:
   flutter_local_notifications: ^13.0.0
   percent_indicator: ^4.2.3
   image_picker: ^0.8.2
+  flutter_secure_storage: ^8.0.0
+  sliding_up_panel: ^2.0.0+1
+  custom_timer: ^0.2.3
+  chewie: ^1.4.0
+  video_player: ^2.6.1
+  url_launcher: ^6.1.10
+  permission_handler: ^10.2.0
 
 dev_dependencies:
   flutter_test:

@@ -1,41 +1,35 @@
 {
   "project_info": {
-    "project_number": "1027671457053",
-    "project_id": "fitness-24b08",
-    "storage_bucket": "fitness-24b08.appspot.com"
+    "project_number": "296972320612",
+    "firebase_url": "https://fitness-ff1b6-default-rtdb.firebaseio.com",
+    "project_id": "fitness-ff1b6",
+    "storage_bucket": "fitness-ff1b6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1027671457053:android:2d60f227322d418676f5f4",
+        "mobilesdk_app_id": "1:296972320612:android:ab4c16fffb3588fec78471",
         "android_client_info": {
           "package_name": "com.example.fitness"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1027671457053-8a0ivckkualf9lp1655tmpn55up8qvnh.apps.googleusercontent.com",
+          "client_id": "296972320612-re15shbhi016dmaunq3db8chjm5450io.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCvIX6hSnl75rupybaPBiZ6AjGlVUAy5bY"
+          "current_key": "AIzaSyAwfOR4EDgc0M2CDakUTVD3kSB1zTniq5M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1027671457053-8a0ivckkualf9lp1655tmpn55up8qvnh.apps.googleusercontent.com",
+              "client_id": "296972320612-re15shbhi016dmaunq3db8chjm5450io.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "1027671457053-1t7sctlc379941snlsiesouhkgrf7o48.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "io.flutter.flutter.app"
-              }
             }
           ]
         }
